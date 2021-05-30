@@ -1,0 +1,1 @@
+# issue-to-reproduce-vite-build-bug
